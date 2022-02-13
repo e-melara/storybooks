@@ -4,7 +4,7 @@ import "./MyLabel.css";
  * Is this the principal call to action on the page?
  */
 
-interface MyLabelProps {
+export interface MyLabelProps {
   /**
    * Este es el mensaje en el label
    */
